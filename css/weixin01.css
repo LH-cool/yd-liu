@@ -1,0 +1,30 @@
+body{
+	background-color:#f1f1f1;
+}
+*{
+	margin:0px;
+	padding:0px;
+}
+.tuoxiang-img{
+	width: 64px;
+	height: 64px;
+}
+.row{
+	display: inline-block;
+}
+.icon{
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+}
+.bg-white{
+	background-color: #ffffff;
+	padding: 10px;
+}
+.face-content{
+	height: 80px;
+	margin-bottom:20px;
+}
+.mr-left-10{
+	marign-left:10px;
+}
